@@ -15,11 +15,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student based in Dhaka, Bangladesh — currently in my 5th semester and obsessed with building things that actually work in the real world.
+I'm a Computer Science & Engineering student based in Dhaka, Bangladesh currently in my 5th semester and enjoy with building things that actually work in the real world.
 
-My interests sit at the intersection of **full stack web development**, **backend engineering**, and **data analysis**. I don't just want to write code — I want to build products people use and love.
+My interests sit at the intersection of **full stack web development**, **backend engineering**, and **data analysis**. I don't just want to write code  I want to build products people use and love.
 
-When I'm not coding, I'm probably thinking about coding.
 
 ---
 
