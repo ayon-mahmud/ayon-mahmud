@@ -3,7 +3,7 @@
 # 🌌 Hey, I'm Mahmudur Rahman
 ### — but you can call me Ayon —
 
-*Full Stack Developer · Data Enthusiast · Lifelong Learner*
+*Full Stack Developer · Data Enthusiast ·*
 
 [![Email](https://img.shields.io/badge/Email-neelz1543@gmail.com-0a0a2a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelz1543@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-0a0a2a?style=for-the-badge)
